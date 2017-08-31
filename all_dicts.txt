@@ -1,0 +1,3 @@
+nuidict
+fr-conjugaison;10000
+french_viet;9046563
