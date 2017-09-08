@@ -1,3 +1,6 @@
 nuidict
-fr-conjugaison;10000
-french_viet;9046563
+english_viet;54291138;en_US
+viet_english;3890951;null
+fr-conjugaison;19949694;fr_FR
+french_viet;9046563;fr_FR
+viet_french;4519960;null
