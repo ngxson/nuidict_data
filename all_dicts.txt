@@ -1,6 +1,6 @@
 nuidict
-english_viet;54291138;en_US
-viet_english;3890951;null
-fr-conjugaison;19949694;fr_FR
-french_viet;9046563;fr_FR
-viet_french;4519960;null
+english_viet;73570051;en_US
+viet_english;5355894;null
+fr-conjugaison;20222070;fr_FR
+french_viet;10730292;fr_FR
+viet_french;5817700;null
