@@ -1,6 +1,49 @@
-nuidict
-english_viet;73570051;en_US
-viet_english;5355894;null
-fr-conjugaison;20222070;fr_FR
-french_viet;10730292;fr_FR
-viet_french;5817700;null
+{
+	"data": [
+		{
+			"name": "english_viet",
+			"html": false,
+			"size": 73570051,
+			"tts": "en_US",
+			"from": "en_US",
+			"to": "vi_VN",
+			"ver": 1
+		},
+		{
+			"name": "viet_english",
+			"html": false,
+			"size": 5355894,
+			"tts": "",
+			"from": "vi_VN",
+			"to": "en_US",
+			"ver": 1
+		},
+		{
+			"name": "fr-conjugaison",
+			"html": false,
+			"size": 20222070,
+			"tts": "fr_FR",
+			"from": "fr_FR",
+			"to": "fr_FR",
+			"ver": 1
+		},
+		{
+			"name": "french_viet",
+			"html": false,
+			"size": 10730292,
+			"tts": "fr_FR",
+			"from": "fr_FR",
+			"to": "vi_VN",
+			"ver": 1
+		},
+		{
+			"name": "viet_french",
+			"html": false,
+			"size": 5817700,
+			"tts": "",
+			"from": "vi_VN",
+			"to": "fr_FR",
+			"ver": 1
+		}
+	]
+}
