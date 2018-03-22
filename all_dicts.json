@@ -7,6 +7,7 @@
 			"tts": "en_US",
 			"from": "en_US",
 			"to": "vi_VN",
+			"accent": false,
 			"ver": 1
 		},
 		{
@@ -16,6 +17,7 @@
 			"tts": "",
 			"from": "vi_VN",
 			"to": "en_US",
+			"accent": true,
 			"ver": 1
 		},
 		{
@@ -25,6 +27,7 @@
 			"tts": "fr_FR",
 			"from": "fr_FR",
 			"to": "fr_FR",
+			"accent": true,
 			"ver": 1
 		},
 		{
@@ -34,6 +37,7 @@
 			"tts": "fr_FR",
 			"from": "fr_FR",
 			"to": "vi_VN",
+			"accent": true,
 			"ver": 1
 		},
 		{
@@ -43,6 +47,7 @@
 			"tts": "",
 			"from": "vi_VN",
 			"to": "fr_FR",
+			"accent": true,
 			"ver": 1
 		}
 	]
